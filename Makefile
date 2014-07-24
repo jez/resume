@@ -5,7 +5,7 @@ all: $(TARGET).pdf
 ## Generalized rule: how to build a .pdf from each .tex
 LATEXPDFS=$(patsubst %.tex,%.pdf,$(wildcard *.tex))
 $(LATEXPDFS): %.pdf: %.tex
-	xelatex -interaction nonstopmode $(patsubst %.pdf,%.tex,$@) && cp $@ index.html
+	xelatex -interaction nonstopmode $(patsubst %.pdf,%.tex,$@)
 
 clean:
 	rm *.aux *.log || true
