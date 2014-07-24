@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  24 JUL 2014 02:10
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  24 JUL 2014 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,7 +751,8 @@ language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 .................................................
 
 TextBlockOrigin set to 0mm x 5mm
-) (./resume.aux)
+)
+No file resume.aux.
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -774,7 +775,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 16.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 16.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/tipa/t3cmr.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 16.
@@ -831,7 +832,11 @@ LaTeX Info: Redefining \nameref on input line 16.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
- ABD: EveryShipout initializing macros
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+ABD: EveryShipout initializing macros
 isodate: babel.sty has been loaded
 .................................................
 . fontspec info: "setup-math"
@@ -1561,9 +1566,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
  ) 
 Here is how much of TeX's memory you used:
- 22799 strings out of 493938
- 440966 string characters out of 6148857
- 470079 words of memory out of 5000000
+ 22797 strings out of 493938
+ 440944 string characters out of 6148857
+ 469964 words of memory out of 5000000
  25858 multiletter control sequences out of 15000+600000
  6124 words of font info for 58 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
