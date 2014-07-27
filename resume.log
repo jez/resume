@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  24 JUL 2014 15:08
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  27 JUL 2014 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,6 +929,17 @@ tex-text;+smcp;"
 .................................................
 LaTeX Font Info:    Font shape `EU1/Raleway-ExtraLight(0)/m/n' will be
 (Font)              scaled to size 9.56726pt on input line 34.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options
+. [Mapping=tex-text,Path = fonts/lato/].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;mapping=tex-text;"
+.................................................
 \g_fontspec_family_Lato-Hai_int=\count151
 .................................................
 . fontspec info: "defining-font"
@@ -940,17 +951,6 @@ LaTeX Font Info:    Font shape `EU1/Raleway-ExtraLight(0)/m/n' will be
 . 
 . * 'normal' with NFSS spec.:
 . <->"[fonts/lato/Lato-Hai]/ICU:script=latn;language=DFLT;mapping=tex-text;"
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options
-. [Mapping=tex-text,Path = fonts/lato/].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;mapping=tex-text;"
 .................................................
 \g_fontspec_family_Raleway-Medium_int=\count152
 .................................................
@@ -1392,9 +1392,9 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 . This font family consists of the following shapes:
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 178.
+(Font)              <7> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 178.
+(Font)              <5> on input line 179.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1547,14 +1547,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 240.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 240.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 239.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 240.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 240.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1563,14 +1563,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 240.
  ) 
 Here is how much of TeX's memory you used:
- 22797 strings out of 493938
- 440944 string characters out of 6148857
+ 22794 strings out of 493938
+ 440828 string characters out of 6148857
  469964 words of memory out of 5000000
- 25858 multiletter control sequences out of 15000+600000
- 6124 words of font info for 58 fonts, out of 8000000 for 9000
+ 25857 multiletter control sequences out of 15000+600000
+ 6108 words of font info for 56 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  53i,5n,82p,559b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
 
