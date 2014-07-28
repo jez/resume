@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  27 JUL 2014 16:19
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  27 JUL 2014 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -940,19 +940,15 @@ LaTeX Font Info:    Font shape `EU1/Raleway-ExtraLight(0)/m/n' will be
 . * 'normal' with NFSS spec.:
 . <->"[fonts/lato/Lato-Lig]/ICU:script=latn;language=DFLT;mapping=tex-text;"
 .................................................
-\g_fontspec_family_Lato-Hai_int=\count151
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Lato-Hai(0)' created for font 'Lato-Hai' with options
+. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options
 . [Mapping=tex-text,Path = fonts/lato/].
 . 
 . This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"[fonts/lato/Lato-Hai]/ICU:script=latn;language=DFLT;mapping=tex-text;"
 .................................................
-\g_fontspec_family_Raleway-Medium_int=\count152
+\g_fontspec_family_Raleway-Medium_int=\count151
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1010,7 +1006,7 @@ LaTeX Font Warning: Font shape `EU1/Lato-Lig(1)/m/sc' undefined
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-\g_fontspec_family_Lato-Bol_int=\count153
+\g_fontspec_family_Lato-Bol_int=\count152
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1051,7 +1047,7 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 . 
 . This font family consists of the following shapes:
 .................................................
-\g_fontspec_family_Lato-Reg_int=\count154
+\g_fontspec_family_Lato-Reg_int=\count153
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1566,11 +1562,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 240.
  ) 
 Here is how much of TeX's memory you used:
- 22794 strings out of 493938
- 440828 string characters out of 6148857
+ 22777 strings out of 493938
+ 440249 string characters out of 6148857
  469964 words of memory out of 5000000
- 25857 multiletter control sequences out of 15000+600000
- 6108 words of font info for 56 fonts, out of 8000000 for 9000
+ 25843 multiletter control sequences out of 15000+600000
+ 6100 words of font info for 55 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  53i,5n,82p,559b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
 

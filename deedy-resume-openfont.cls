@@ -45,7 +45,7 @@ Last Updated on
 	\centering{
 		\sffamily
 		\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{40pt}{10cm}\selectfont #1 
-		\fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #2
+		\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
 	} \\
 	\vspace{5pt}
 	\centering{ \color{headings}\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
